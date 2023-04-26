@@ -5,7 +5,7 @@ coverImage: '/assets/blog/preview/cover.jpg'
 date: '2023-04-23T05:35:07.322Z'
 author:
   name: Oris John-Baptiste
-  picture: '/assets/blog/authors/joe.jpeg'
+  picture: '/assets/blog/authors/oris.jpg'
 ogImage:
   url: '/assets/blog/preview/cover.jpg'
 ---

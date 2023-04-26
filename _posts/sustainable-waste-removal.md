@@ -1,13 +1,13 @@
 ---
 title: 'The importance of sustainable waste removal'
 excerpt: 'In our blog post, "Cleaner Tomorrow: The Importance of Sustainable Waste Removal," we explore the importance of sustainable waste removal and its impact on our future. We discuss the benefits of adopting sustainable waste removal practices, such as reducing landfill waste, conserving natural resources, and reducing greenhouse gas emissions.'
-coverImage: '/assets/blog/preview/cover.jpg'
+coverImage: '/assets/blog/sustainable-waste-removal/cover.jpg'
 date: '2023-04-23T05:35:07.322Z'
 author:
   name: Oris John-Baptiste
-  picture: '/assets/blog/authors/joe.jpeg'
+  picture: '/assets/blog/authors/oris.jpg'
 ogImage:
-  url: '/assets/blog/preview/cover.jpg'
+  url: '/assets/blog/sustainable-waste-removal/cover.jpg'
 ---
 
 

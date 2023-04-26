@@ -1,13 +1,13 @@
 ---
 title: 'How seasonal changes affect the waste removal industry in London'
 excerpt: 'Seasonal changes have a significant impact on the waste removal industry in London. The amount and type of waste generated can vary depending on the season, and waste removal companies must be prepared to adapt to these changes.'
-coverImage: '/assets/blog/preview/cover.jpg'
+coverImage: '/assets/blog/seasonal-change/cover.jpg'
 date: '2023-04-23T05:35:07.322Z'
 author:
   name: Oris John-Baptiste
-  picture: '/assets/blog/authors/joe.jpeg'
+  picture: '/assets/blog/authors/oris.jpg'
 ogImage:
-  url: '/assets/blog/preview/cover.jpg'
+  url: '/assets/blog/seasonal-change/cover.jpg'
 ---
 
 
