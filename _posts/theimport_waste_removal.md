@@ -1,13 +1,13 @@
 ---
 title: 'The Importance of Proper Waste Removal: A Guide for Homeowners and Businesses in London'
 excerpt: 'Proper waste removal is critical in London due to a growing population and limited space for waste disposal. Sustainable waste removal practices, such as reducing, reusing, and recycling waste, can reduce the impact on the environment and public health.'
-coverImage: '/assets/blog/preview/cover.jpg'
+coverImage: '/assets/blog/theimport_waste_removal/cover.jpg'
 date: '2023-04-23T05:35:07.322Z'
 author:
   name: Oris John-Baptiste
   picture: '/assets/blog/authors/oris.jpg'
 ogImage:
-  url: '/assets/blog/preview/cover.jpg'
+  url: '/assets/blog/theimport_waste_removal/cover.jpg'
 ---
 
 
