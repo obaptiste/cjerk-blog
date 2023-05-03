@@ -4,7 +4,7 @@ excerpt: 'London can embrace a variety of novel circular economy approaches to f
 coverImage: '/assets/blog/circular/cover.jpg'
 date: '2020-04-28T05:35:07.322Z'
 author:
-  name: Joe Haddad
+  name: Oris John-Baptiste
   picture: '/assets/blog/authors/oris.jpg'
 ogImage:
   url: '/assets/blog/circular/cover.jpg'
