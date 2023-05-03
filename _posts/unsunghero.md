@@ -1,11 +1,11 @@
 ---
-title: 'Clearing the Fog: The Unsung Heroes of London's Waste Management Revolution'
-excerpt: 'London, a bustling metropolis steeped in history and culture, has experienced a significant transformation in recent years in the way it manages its waste. This transformation can be attributed to the unsung heroes of London's waste management revolution, who have been working tirelessly to innovate and streamline the process of waste removal in the city'
+title: "Clearing the Fog: The Unsung Heroes of London's Waste Management Revolution"
+excerpt: 'London, a bustling metropolis steeped in history and culture, has experienced a significant transformation in recent years in the way it manages its waste.'
 coverImage: '/assets/blog/unsunghero/cover.jpg'
 date: '2023-05-03T05:35:07.322Z'
 author:
   name: Oris John-Baptiste
-  picture: '/assets/blog/authors/Oris.jpeg'
+  picture: '/assets/blog/authors/oris.jpg'
 ogImage:
   url: '/assets/blog/unsunghero/cover.jpg'
 ---
